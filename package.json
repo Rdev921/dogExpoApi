@@ -1,0 +1,24 @@
+{
+  "name": "dogexpoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" :"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rdev921/dogExpoApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rdev921/dogExpoApi/issues"
+  },
+  "homepage": "https://github.com/Rdev921/dogExpoApi#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
